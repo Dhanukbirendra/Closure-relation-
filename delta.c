@@ -1,4 +1,7 @@
-/*delta.c:Closure relation of hermite function */
+/*delta.c:Closure relation of hermite function 
+/*Author:Birendra Dhanuk 
+/* Nov-15-2018
+*/
 
 double pow(double,double);
 double exp(double);
